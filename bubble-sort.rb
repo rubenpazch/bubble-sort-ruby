@@ -22,7 +22,7 @@ def bubble_sort_by(array)
   while (len > 0)
     j = 0
     while (j < len - 1)
-      if ( yield(array[j].to_i, array[j + 1].to_i) > 0 )
+      if (yield(array[j].to_i, array[j + 1].to_i) > 0)
         temp = array[j].to_i
         array[j] = array[j + 1].to_i
         array[j + 1] = temp
@@ -40,7 +40,7 @@ def bubble_sort_strings_by(array)
   while (len > 0)
     j = 0
     while (j < len - 1)
-      if ( yield(array[j].to_s, array[j + 1].to_s) > 0 )
+      if (yield(array[j].to_s, array[j + 1].to_s) > 0)
         temp = array[j].to_s
         array[j] = array[j + 1].to_s
         array[j + 1] = temp
@@ -58,11 +58,16 @@ bubble_sort_by([4, 3, 78, 5, 2, 8, 429, 32]) do |left,right|
 end
 =end
 
-bubble_sort_strings_by(["hi","hello","hey","welcome"]) do |left,right|
+#Bubble sort using if condition
+puts "Method #1"
+puts bubble_sort([4, 3, 78, 5, 2, 8, 429, 32])
+print "\n"
+#Bubble sort using yield
+puts "Method #2"
+bubble_sort_strings_by(["hi", "hello", "hey", "welcome"]) do |left, right|
   left.length - right.length
 end
 
-#puts bubble_sort([4, 3, 78, 5, 2, 8, 429, 32])
 #puts bubble_sort([1, -1, 1515151519519, 1, 5])
 
 =begin

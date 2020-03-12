@@ -5,71 +5,28 @@
 bubble sort, where each element is compared to the one next to it and they are swapped if the one on the left is larger than the one on the right. This continues until the array is eventually sorted. 
 
 
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [Whats is included on this project](#whats-is-included-on-this-project)
-* [Link to assignment](#link-to-assignment)
-* [Built With](#built-with)
-* [Screenshot](#screenshot)
-* [Live Demo](#live-demo)
-* [SASS structure](#SASS-structure)
-* [Video Presentation of the project](#video-presentation-of-the-project)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
-* [Contributing](#-Contributing)
-* [License](#license)
-
-
-
-
-## Whats is included on this project
-
-This project includes the next parts:
-
-+ The home page 
-  + Cover section
-  + Main program section
-  + Featured speakers
-  + Partner section
-  + Footer
-+ About page
-  + Cover section
-  + Workshop Ecommerce and logo section 
-  + Previous events
-  + Partner section 
-  + Footer
-+ Tickets page
-  + Select tickets
-  + Select your lunch
-  + Footer
-
 ## Link to assignment
 
-the assignment can be found  [here](https://www.notion.so/HTML-CSS-capstone-project-Conference-page-ed3efca4b9824484a9df7f9f24067ff7).
+the assignment can be found  [here](https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks).
 
 ## Built With
 
 Concepts used on this project
 
-- HTML
-- CSS
-- SASS 
-- Javascript
-- font-awesome
+- Ruby
+- Loops
+- Yield
 
 Tools used on this project
 
-- Stickler CI
 - Visual Studio Code
-- CSS Formatter
-- Stylelint
+- VSCode Ruby by Stafford Brunk
+- Rufo (Ruby Formatter) by Matt Bessey
 
 
 ## Screenshot
 
-![screenshot](./img/screnshot-site.gif)
+![screenshot](./img/screnshot-site.jpg)
 
 ## Live Demo
 
@@ -99,10 +56,20 @@ You can see the video presentation on the next link [here](https://www.youtube.c
 
 ## Authors
 
+
+## Authors
+
+👤 **Xóchitl Selene Flores Pérez**
+
+- Github: [@enelesmai](https://github.com/enelesmai)
+- Twitter: [@enelesmai](https://twitter.com/enelesmai)
+- Linkedin: [xochitlselene](https://linkedin.com/in/xochitlselene)
+
 👤 **Ruben Paz Chuspe**
 
 - Github: [@rubenpazch](https://github.com/rubenpazch)
 - Linkedin: [rubenpch](https://www.linkedin.com/in/rubenpch/)
+
 
 ## Contributing
 
