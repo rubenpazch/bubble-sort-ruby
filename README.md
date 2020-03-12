@@ -32,30 +32,6 @@ Tools used on this project
 
 You can see the [live preview](https://compassionate-nightingale-93193a.netlify.com/)
 
-## SASS structure 
-
-For this project, I use SASS for managing CSS behavior and have the next structure.
-
-* CSS
-* fonts
-* img
-* js
-* scss
-
-For making changes to this project you should run SASS with this command
-
-1. Go to the file where your project is located C:/www/project_root
-2. sass --watch scss:css
-3. Change files located on SCSS folder
-
-## Video Presentation of the project
-
-You can see the video presentation on the next link [here](https://www.youtube.com/watch?v=4a5Yf33ODfQ).
-
-![video](./img/video-presentation.png)
-
-## Authors
-
 
 ## Authors
 
@@ -87,13 +63,9 @@ Give a ⭐️ if you like this project!
 
 + [Microverse](https://www.microverse.org/).
 + [Github](http://github.com/).
-+ [Fontawesome](http://fontawesome.com/).
 + [The Odin Project](theodinproject.com/).
-+ [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## License
-
-For this project we use a template from [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/). 
 
 This project is [MIT](lic.url) licensed.
 
