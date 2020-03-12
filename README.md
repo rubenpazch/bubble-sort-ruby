@@ -30,7 +30,7 @@ Tools used on this project
 
 ## Live Demo
 
-You can see the [live preview](https://compassionate-nightingale-93193a.netlify.com/)
+You can see the [live preview](https://repl.it/@RubenPaz/bubble-sort-ruby)
 
 
 ## Authors
